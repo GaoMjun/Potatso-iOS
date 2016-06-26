@@ -5,33 +5,26 @@
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "88EA2772244A30DC9C9F9C8CF4484193B457DACA" : 0,
-    "C7C6F7063BDDA3DE8369DA328451FE1D0A969DD5" : 0,
     "479748FFEE6C8F55A963C5B888A16526164DCE45" : 0
   },
-  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "357ADE20-F4A3-4BE0-875B-8B12FC4B6C73",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1E8C4BCC-C16E-480E-B445-2DAAEF9552CD",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "88EA2772244A30DC9C9F9C8CF4484193B457DACA" : "iOS\/Library\/ShadowPath\/ShadowPath\/shadowsocks-libev\/",
-    "C7C6F7063BDDA3DE8369DA328451FE1D0A969DD5" : "..\/..\/iOS\/Library\/plcrashreporter",
-    "479748FFEE6C8F55A963C5B888A16526164DCE45" : "iOS\/"
+    "88EA2772244A30DC9C9F9C8CF4484193B457DACA" : "Potatso-iOS\/Library\/ShadowPath\/ShadowPath\/shadowsocks-libev\/",
+    "479748FFEE6C8F55A963C5B888A16526164DCE45" : "Potatso-iOS\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Potatso",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Potatso.xcworkspace",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:iCodesign\/Potatso.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GaoMjun\/Potatso-iOS.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "479748FFEE6C8F55A963C5B888A16526164DCE45"
     },
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:shadowsocks\/shadowsocks-libev.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/icodesign\/shadowsocks-libev",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88EA2772244A30DC9C9F9C8CF4484193B457DACA"
-    },
-    {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/opensource.plausible.coop\/src\/scm\/plcr\/plcrashreporter.git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C7C6F7063BDDA3DE8369DA328451FE1D0A969DD5"
     }
   ]
 }

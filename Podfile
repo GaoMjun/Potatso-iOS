@@ -56,7 +56,7 @@ end
 
 target "TodayWidget" do
     pod 'Cartography'
-    pod 'SwiftColor'
+    pod 'SwiftColor', '~> 0.3.7'
     library
     socket
 end
